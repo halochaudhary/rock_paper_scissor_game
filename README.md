@@ -27,3 +27,9 @@ This is a simple Rock-Paper-Scissor game implemented in Python. The computer ran
 ```bash
 Enter your choice [Rock/Paper/Scissor] = Rock
 You won! Rock smashes scissor!
+```
+## Developer
+- This game was developed by Manish Kumar. If you like this simple Rock-Paper-Scissor game, please consider giving it a star on GitHub!
+
+## License
+- This project is open-source and available under the MIT License.
